@@ -1,0 +1,18 @@
+div {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  background: red;
+  color: white;
+  padding: 6px;
+  margin: 3px;
+}
+
+
+.float-box {
+  display: inline-block;
+  width: 100px;
+  height: 20px;
+  margin: 20px;
+  border: 5px solid black;
+}
